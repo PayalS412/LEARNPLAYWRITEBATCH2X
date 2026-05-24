@@ -26,9 +26,23 @@ A comprehensive learning repository for Playwright automation testing, covering 
 - `12_let_peope_love.js` - Why people love let
 - `13_Const_explained.js` - Detailed explanation of const
 - `14_var_Functionscope.js` - var and function scope
-- `15_Hoisting.js` - Hoisting concept
 - `15_let_scope.js` - let scope explained
-- `16_hoistingwithFunctions.js` - Hoisting with functions
+- `16_Hoisting.js` - Hoisting concept
+- `17_hoistingwithFunctions.js` - Hoisting with functions
+- `18_let_Hoisting.js` - let hoisting
+- `19_let_Hoisting_block.js` - let hoisting with block scope
+- `20_let_const.js` - let and const comparison
+- `21_jr_QA.js` - Junior QA examples
+
+### Chapter 5: Literal
+- `22_Literal.js` - Introduction to literals
+- `23_null.js` - null literal
+- `24_null_undefined.js` - null vs undefined
+- `25_Literal_all.js` - All literals overview
+- `26_Literal_number_all.js` - Number literals
+- `27_String.js` - String literals
+- `28_Template_literal.js` - Template literals
+- `29_backtick_single_double.js` - Backtick, single, and double quotes
 
 ## Prerequisites
 - Node.js installed
