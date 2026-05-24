@@ -44,6 +44,26 @@ A comprehensive learning repository for Playwright automation testing, covering 
 - `28_Template_literal.js` - Template literals
 - `29_backtick_single_double.js` - Backtick, single, and double quotes
 
+### Chapter 6: Operator
+- `30_operator.js` - Introduction to operators
+- `31_Arithmetic_op.js` - Arithmetic operators
+- `32_Modulus_op.js` - Modulus operator
+- `33_Expo_op.js` - Exponentiation operator
+- `34_IQ.js` - Interview questions on operators
+- `35_Comparision_op.js` - Comparison operators
+- `36_Comparision_Strict_loose.js` - Strict vs loose comparison
+- `37_IQ.js` - Interview questions on comparison
+- `38_Confusion_compare.js` - Comparison confusion explained
+- `39_Logical_op.js` - Logical operators
+- `40_String_concat.js` - String concatenation
+- `41_Ternary_op.js` - Ternary operator
+- `43_incr_decr.js` - Increment and decrement operators
+- `44_null_op.js` - Nullish coalescing operator
+- `45_Post_incr.js` - Post increment/decrement
+- `46_IQ.js` - Interview questions on increment
+- `47_IQ.js` - Additional interview questions
+- `42_Type_op.js` - Type operators
+
 ## Prerequisites
 - Node.js installed
 - Basic understanding of JavaScript
